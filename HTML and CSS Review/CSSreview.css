@@ -1,0 +1,24 @@
+/*Universal selector*/
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+    /*type selector*/ 
+
+body {
+    background-color: magenta;
+}
+
+/* ID selector*/ /*uses the pound isng..# */
+#topHeader {
+    color: white;
+}
+
+/*Class Selector*/ /* uses the dot symbol - # */
+.topPara{
+    color: yellow;
+    /*measurements - px is for pixels, % of screen, */
+    font-size: 4040px; /* % the space of the container */ 
+}
